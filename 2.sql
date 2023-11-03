@@ -1,3 +1,4 @@
+-- Mecanismos de almacenamiento MyISAM, MEMORY, InnoDB
 CREATE TABLE df_table(ID INT, NOMBRE VARCHAR(100));
 
 ALTER TABLE df_table ENGINE = MyISAM;
