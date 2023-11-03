@@ -1,0 +1,7 @@
+CREATE DATABASE base;
+
+SHOW VARIABLES WHERE Variable_Name LIKE '%dir';
+
+CREATE DATABASE base3;
+
+DROP DATABASE base;
